@@ -1,5 +1,5 @@
-# Project-Phoenix
-🚀 Project Phoenix: AI-Driven Knowledge Synthesis & Skill Recovery
+# Project-Phoenix: AI-Driven Knowledge Synthesis & Skill Recovery
+ 
 🔍 Overview
 Project Phoenix is a self-hosted AI automation pipeline designed to solve a critical challenge in cybersecurity: Technical Knowledge Decay. Following a significant data loss of professional artifacts, I engineered this system to audit, transcribe, and index four semesters of academic archives (Master of Cybersecurity) and live demonstration videos.
 
